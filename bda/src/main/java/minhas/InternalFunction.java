@@ -1,4 +1,4 @@
-package mnhas;
+package minhas;
 
 import org.apache.spark.api.java.function.Function;
 
